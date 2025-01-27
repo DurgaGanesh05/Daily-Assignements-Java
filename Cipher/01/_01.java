@@ -13,5 +13,7 @@ class _01 {
             else if(a >= 60 && a < 70) System.out.println(" Grade D");
             else System.out.println("Grade F"); 
         }
+
+        s.close();
     }   
 }
