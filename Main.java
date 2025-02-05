@@ -31,8 +31,9 @@ public class Main {
         System.out.println(number3);*/
 
 
+        Scanner s = new Scanner(System.in);
         
-                
-
+        String str = s.nextLine();
+        
     }
 }
